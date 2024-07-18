@@ -8,7 +8,7 @@ Table of Contents
 *Usage
 *Models and Results
 *License
-###Overview
+### Overview
 The goal of this project is to develop a model that can predict the selling price of a car based on various features. The models used in this project include:
 1)Linear Regression
 2)Ridge Regression
