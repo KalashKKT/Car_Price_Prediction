@@ -3,7 +3,7 @@
 This repository contains a project for predicting car prices using various machine learning models, including Linear Regression, Ridge Regression, Lasso Regression, and Random Forest Regression. The data used for this project includes several attributes related to cars, such as their selling price, present price, kilometers driven, fuel type, and more.
 
 Table of Contents
-*Overview
+*Overview/n
 *Installation
 *Usage
 *Models and Results
